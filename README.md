@@ -26,4 +26,9 @@
 - Docker: For containerization to ensure consistency and portability.
 - Kubernetes: For container orchestration and deployment.
 - SSL Certification: To secure communication between clients and the server.
+
+### Architecture
+
+![image](https://github.com/user-attachments/assets/f36d5fb9-0fc3-4f2f-9ec2-a11f6571b26c)
+
   
