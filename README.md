@@ -7,7 +7,9 @@
 - Telegram Group: https://t.me/+9roGPjX1YI42Yzdl
 
 ###  𝗗𝗲𝘁𝗮𝗶𝗹𝗲𝗱 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁
-
+  <tr>
+      <td align="center"><a href="MultiTier_CICD_Project_With_SSL_Certificate_on_AWS-and-EKS.pdf"><b>MultiTier_CICD_Project_With_SSL_Certificate_on_AWS-and-EKS.pdf</b></a></td>
+  </tr>
 
 
 ##### The setup will involve configuring the necessary infrastructure, deploying the application on AWS EC2 instances, and ensuring that each tier (presentation, application, and database) is properly integrated and monitored. Tools such as Jenkins, SonarQube, Nexus, Docker, and Kubernetes will be utilized to manage the build, testing, deployment, and monitoring processes, ensuring a seamless and consistent workflow from development to production.
