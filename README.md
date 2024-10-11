@@ -8,7 +8,7 @@
 
 ###  𝗗𝗲𝘁𝗮𝗶𝗹𝗲𝗱 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁
   <tr>
-      <td align="center"><a href="MultiTier_CICD_Project_With_SSL_Certificate_on_AWS-and-EKS.pdf"><b>MultiTier_CICD_Project_With_SSL_Certificate_on_AWS-and-EKS.pdf</b></a></td>
+      <td align="center"><a href="DetailedDocument_MultiTier_CICD.pdf"><b>Detailed Document - MultiTier CICD Project on AWS & EKS</b></a></td>
   </tr>
 
 
