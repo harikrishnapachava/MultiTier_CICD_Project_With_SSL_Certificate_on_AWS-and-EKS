@@ -4,6 +4,11 @@
 - Youtube Demo: https://www.youtube.com/watch?v=pFzzWH3w03U&list=PLAdTNzDIZj_9c-o43WJ7yYBa5YEAkWiOv&index=2
 - Application code Repo: https://github.com/jaiswaladi246/Multi-Tier-With-Database
 - Project Code(This repository cloned from): https://github.com/jaiswaladi246/FullStack-Blogging-App
+- Telegram Group: https://t.me/+9roGPjX1YI42Yzdl
+
+###  𝗗𝗲𝘁𝗮𝗶𝗹𝗲𝗱 𝗱𝗼𝗰𝘂𝗺𝗲𝗻𝘁
+
+
 
 ##### The setup will involve configuring the necessary infrastructure, deploying the application on AWS EC2 instances, and ensuring that each tier (presentation, application, and database) is properly integrated and monitored. Tools such as Jenkins, SonarQube, Nexus, Docker, and Kubernetes will be utilized to manage the build, testing, deployment, and monitoring processes, ensuring a seamless and consistent workflow from development to production.
 
